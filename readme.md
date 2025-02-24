@@ -83,4 +83,4 @@ For any inquiries, please reach out to [areeb777358@gmail.com](mailto:areeb77735
 
 ---
 
-**Note:** Replace `YourUsername`, `YourRepository`, and `Your Email` with
+**Note:** Replace `areeb1777`, `https://github.com/areeb1777/data-sweeper.git`, and `areeb777358@gmail.com` with
